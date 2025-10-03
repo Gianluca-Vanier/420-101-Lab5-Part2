@@ -22,5 +22,12 @@ QUESTIONS
     put()
     Yes, similar parameters can be used as long as keys you are putting in are not similar.
 26. By using the size() method.
+28. It overwrites the previous value of that key.
+29. It throws an error.
+30. phoneBook.containsKey().
+31. It returns null.
+32. With a loop and keysSet().
+34. They both implement collections. 
+    Duplicates are not allowed in hash sets
     
     
